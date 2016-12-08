@@ -1,0 +1,6 @@
+Two srts subtitles have to be at the film directory.
+
+You can use my script "download-subs.py" to automatically download this 2 subtitles.
+
+Once you have downloaded the two subtitles, you can execute play_2_srts.pl
+
